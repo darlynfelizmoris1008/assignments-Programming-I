@@ -1,0 +1,14 @@
+C:\Users\darly\source\c#dev\class3\class3\obj\Debug\net8.0\class3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darly\source\c#dev\class3\class3\obj\Debug\net8.0\class3.AssemblyInfoInputs.cache
+C:\Users\darly\source\c#dev\class3\class3\obj\Debug\net8.0\class3.AssemblyInfo.cs
+C:\Users\darly\source\c#dev\class3\class3\obj\Debug\net8.0\class3.csproj.CoreCompileInputs.cache
+C:\Users\darly\source\c#dev\class3\class3\bin\Debug\net8.0\class3.exe
+C:\Users\darly\source\c#dev\class3\class3\bin\Debug\net8.0\class3.deps.json
+C:\Users\darly\source\c#dev\class3\class3\bin\Debug\net8.0\class3.runtimeconfig.json
+C:\Users\darly\source\c#dev\class3\class3\bin\Debug\net8.0\class3.dll
+C:\Users\darly\source\c#dev\class3\class3\bin\Debug\net8.0\class3.pdb
+C:\Users\darly\source\c#dev\class3\class3\obj\Debug\net8.0\class3.dll
+C:\Users\darly\source\c#dev\class3\class3\obj\Debug\net8.0\refint\class3.dll
+C:\Users\darly\source\c#dev\class3\class3\obj\Debug\net8.0\class3.pdb
+C:\Users\darly\source\c#dev\class3\class3\obj\Debug\net8.0\class3.genruntimeconfig.cache
+C:\Users\darly\source\c#dev\class3\class3\obj\Debug\net8.0\ref\class3.dll
