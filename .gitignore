@@ -1,0 +1,48 @@
+# Build results
+bin/
+obj/
+
+# Visual Studio folder
+.vs/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Backup & autosave files
+*.bak
+*.tmp
+
+# Build artifacts
+*.dll
+*.exe
+*.pdb
+*.cache
+
+# Log files
+*.log
+
+# Publish folders
+publish/
+app.publish/
+
+# NuGet packages
+*.nupkg
+packages/
+
+# Resharper / Rider
+_ReSharper*/
+*.DotSettings.user
+
+# VS Code
+.vscode/
+
+# SQL Server
+*.mdf
+*.ldf
+
+# Others
+Thumbs.db
+Desktop.ini
